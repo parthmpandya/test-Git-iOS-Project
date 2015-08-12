@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"ViewDidLoad Method is being Executed");
 }
 
 - (void)didReceiveMemoryWarning
